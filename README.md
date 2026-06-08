@@ -1,40 +1,78 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,100:4FC3F7&height=280&section=header&text=Lee%20Seoung%20Yeon&fontSize=58&fontColor=01579B&animation=fadeIn&desc=%F0%9F%90%A4%20%EC%98%A4%EB%8A%98%EB%8F%84%20%ED%95%9C%20%EC%A4%84%2C%20%EB%82%B4%EC%9D%BC%EB%8F%84%20%ED%95%9C%20%EC%A4%84.%20%EA%BE%B8%EC%A4%80%ED%9E%88%20%ED%97%A4%EC%97%84%EC%B9%98%EB%8A%94%20%EC%A4%91&descSize=18&descAlignY=72" alt="header"/>
- 
-## 🦆 성장 중..
- 
-- 🎨 디자인과 코드 사이를 잇는 개발자
-- 📱 현재 React 웹 , Flutter 모바일 앱 개발 위주로 공부중
-- 🤖 LLM·챗봇으로 더 자연스러운 사용자 경험 만들기
-- ✨ 사용자가 계속 쓰고 싶은 앱을 만드는 것이 목표
-- 🐤 작은 걸음으로 꾸준히 나아가는 중
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=F59E0B&size=35&pause=1000&center=true&vCenter=true&random=false&width=650&lines=Hi%2C+I'm+Seoung+Yeon+Lee.;Bridging+design+and+frontend+development." alt="Typing SVG" /></a>
+</div>
 
-## 🛠 기술 스택
- 
-- 주 스택 :
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<div align="center">
+<details>
+<summary>
+  <h2 style="display: inline;">About Me</h2>
+</summary>
 
-- 보조 스택 :
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Education
 
-- 디자인 툴 :
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+**SK네트웍스 Family AI 캠프 23기 (플레이데이터)**  
+_2025.11 ~ 2026.05_  
+AI·데이터 분석부터 LLM/RAG 기반 웹·모바일 서비스까지 5회 팀 프로젝트 수행
 
-- 협업 도구 :
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## Projects
 
- 
+**[withDOG 반려견 성격 기반 장소 추천 + AI 그림일기 챗봇 서비스](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN23-FINAL-3Team)** · [🔗](https://withdog.kro.kr)   
+
+**[On_You 화장품 성분표 OCR 분석 기반 AI 스킨케어 추천 챗봇](https://github.com/oooonbbo-wq/OnYou_SKN23-4th-3TEAM)**  
+
+**[Steam 이탈률 예측](https://github.com/oooonbbo-wq/SKN23-2nd-1TEAM)**  
+
+**[자동차 데이터 분석](https://github.com/oooonbbo-wq/SKN23-1st-3TEAM)**  
+
+## Career
+
+**아이콘스 · 제품개발팀**  
+_2024.01 ~ 2025.04_  
+K-pop·KAKAO·LINE 캐릭터 IP 굿즈 OEM 제품 디자이너
+
+**아트머그 · 프리랜서 디자이너**  
+_2020.06 ~ 2025.10_  
+인플루언서·업체 IP 캐릭터 디자인 및 굿즈 생산 아웃소싱
+
+## Tech Stack
+
+**Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,ts,js" />
+</p>
+
+**Backend & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,mysql" />
+</p>
+
+**Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+**Collaboration**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,notion" />
+</p>
+
+**LLM & Tools**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-F59E0B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-F97316?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-EA580C?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-D97706?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
 ## 연락처
 
-- 이메일 : doona0429@gmail.com
+이메일 : doona0429@gmail.com
+
+</details>
+</div>
+
+<div align="center">
+ 
+![Profile views](https://komarev.com/ghpvc/?username=oooonbbo-wq&abbreviated=true&style=for-the-badge&color=F59E0B)
+
+</div>
